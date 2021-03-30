@@ -1,1 +1,2 @@
 # spppppp
+readyme spectatorview
